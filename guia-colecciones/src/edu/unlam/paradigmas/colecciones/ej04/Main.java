@@ -1,6 +1,6 @@
 package edu.unlam.paradigmas.colecciones.ej04;
 
-public class App {
+public class Main {
 
 	public static void main(String[] args) {
 		Libro hp1 = new Libro("8478884459","Harry Potter y la piedra filosofal","J.K. Rowling",1);

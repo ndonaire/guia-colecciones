@@ -3,7 +3,7 @@ package edu.unlam.paradigmas.colecciones.ej02;
 import java.sql.Time;
 import java.time.LocalDate;
 
-public class App {
+public class Main {
 
 	public static void main(String[] args) {
 		Venta vta1 = new Venta(1,LocalDate.of(2023, 1, 1), Time.valueOf("14:30:00"), "Beto Velez", 234.56);

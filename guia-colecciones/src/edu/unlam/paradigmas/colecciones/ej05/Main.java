@@ -2,7 +2,7 @@ package edu.unlam.paradigmas.colecciones.ej05;
 
 import java.time.LocalDate;
 
-public class App {
+public class Main {
 
 	public static void main(String[] args) {
 		Venta vta1 = new Venta(LocalDate.of(2023, 1, 1), 324.6);

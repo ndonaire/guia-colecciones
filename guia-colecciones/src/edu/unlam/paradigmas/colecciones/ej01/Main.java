@@ -1,6 +1,6 @@
 package edu.unlam.paradigmas.colecciones.ej01;
 
-public class App {
+public class Main {
 
 	public static void main(String[] args) {
 		Paquete paq1 = new Paquete(1, "Calle Falsa 123", "Calle Falsa 321", 135.58);
